@@ -1,0 +1,10 @@
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\bin\Debug\EmojiMakerGUI.exe.config
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\bin\Debug\EmojiMakerGUI.exe
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\bin\Debug\EmojiMakerGUI.pdb
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.csprojAssemblyReference.cache
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.Form1.resources
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.Properties.Resources.resources
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.csproj.GenerateResource.cache
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.csproj.CoreCompileInputs.cache
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.exe
+D:\Programs\EmojiMakerGUI\EmojiMakerGUI\obj\Debug\EmojiMakerGUI.pdb
